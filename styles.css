@@ -215,6 +215,12 @@ header nav .nav-links a:hover::after {
     header nav {
         height: 250px;
     }
+    .hero-text a {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
     .nav-links {
         display: flex;
         flex-direction: column;
@@ -231,7 +237,7 @@ header nav .nav-links a:hover::after {
     }
     .container {
         width: 100%;
-        height: 1300px;
+        height: 1500px;
     }
     .hero-img img {
         width: 100%;
